@@ -1,0 +1,13 @@
+{
+  "name": "redis-queue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type":"module",
+  "scripts":{
+    "start":"node index.js"
+  },
+  "dependencies": {
+    "bull": "^4.8.4"
+  }
+}
